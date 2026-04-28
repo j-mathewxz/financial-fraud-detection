@@ -1,0 +1,2 @@
+step,amount,amount_cat,old_bal_org,new_bal_org,old_bal_dest,new_bal_dest,out,debit,pay,transfer,output,timestamp
+0,11,10,0,0,0,0,false,false,false,false,,2026-04-28 10:51:36.150626
