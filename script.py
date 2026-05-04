@@ -4,7 +4,7 @@ import seaborn as sns
 
 # Load data
 df_clean = pd.read_csv('Financial_Transactions.csv')
-#df_clean = pd.read_csv('Cleaned_Financial_Transactions.csv')
+
 
 # 1. Statistical Summary
 summary_stats = df_clean.describe()
